@@ -23,6 +23,9 @@ MyObservations, é uma ferramenta open source, criada com a intensão de facilit
 
  - `python3 MyObservations.py`
 
+# Última atualização: V2
+Data: 31/05/2023
+
 # Utilização
 
 Após sair da ferramenta, basta digitar
