@@ -11,15 +11,10 @@ def carreg():
   print(f'''
 
      _~
-
    _~ )_)_~
-
    )_))_))_)
-
    _!__!__!_
-
    \_______/
-
   ~~~~~~~~~~~~~
 
 Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
@@ -31,15 +26,10 @@ Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
   print(f'''
 
       _~
-
     _~ )_)_~
-
     )_))_))_)
-
     _!__!__!_
-
     \_______/
-
   ~~~~~~~~~~~~~
 
 Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
@@ -51,15 +41,10 @@ Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
   print(f'''
 
        _~
-
      _~ )_)_~
-
      )_))_))_)
-
      _!__!__!_
-
      \_______/
-
   ~~~~~~~~~~~~~
 
 Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
@@ -71,15 +56,10 @@ Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
   print(f'''
 
      _~
-
    _~ )_)_~
-
    )_))_))_)
-
    _!__!__!_
-
    \_______/
-
   ~~~~~~~~~~~~~
 
 Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
@@ -91,15 +71,11 @@ Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
   print(f'''
 
       _~
-
     _~ )_)_~
-
     )_))_))_)
-
     _!__!__!_
-
     \_______/
-
   ~~~~~~~~~~~~~
 
 Entrando no {c.bwhite}MyObservations{c.white}...🔍''')
+  time.sleep(1)
